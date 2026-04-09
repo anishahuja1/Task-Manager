@@ -1,6 +1,7 @@
 # Full-Stack Task Manager
 
 A professional, modern Task Manager built with a React frontend and Node.js/Express backend. 
+<img width="905" height="410" alt="image" src="https://github.com/user-attachments/assets/952947c3-d8d7-4821-b9d6-e7cdc3f7afbf" />
 
 ##  Features
 - **Core CRUD**: Create, read, update (status/title), and delete tasks.
